@@ -7,13 +7,13 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Tony E. - @showipintbri
+title: Failing Forward
 # Description of the Site
-description: Join Tony E. on the Journey through Tech and Life.
+description: Tony E's Journey through Tech and Life.
 # URL of Image of the Site
 site-image: /assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Blog, CCIE, Cisco, Wireshark, PCAP, Suricata, Bro, Zeek
 # URL for the Image of custom Favicon
 favicon-url: 
 
