@@ -2,12 +2,12 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: '/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: showipintbri.github.io
 
 # Title of the Site
-title: showipintbri
+title: Tony E. - @showipintbri
 # Description of the Site
 description: A site for Tony E to stash his stuff.
 # URL of Image of the Site
