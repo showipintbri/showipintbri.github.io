@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: '/'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: showipintbri.github.io
+baseurl: 
 
 # Title of the Site
 title: Tony E. - @showipintbri
 # Description of the Site
-description: A site for Tony E to stash his stuff.
+description: Join Tony E. on the Journey through Tech and Life.
 # URL of Image of the Site
 site-image: /assets/images/meta.jpg
 # Keywords of the Site
@@ -45,7 +45,7 @@ author-name: Tony E.
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Tony E. is a network and security engineer CCIE# 64908.
+author-about: Tony E. is a network security engineer CCIE# 64908 who loves diving into PCAPs, CTF's, Red Team/Blue Team events, going to conferences and meeting people in the community to love-life and share.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://twitter.com/showipintbri
 
