@@ -40,5 +40,6 @@ I like to pick 3 companies that showed something unique or really *wow*'ed me in
 Everyone did a really great job presenting. There were some juggernaut's of networking as delegates and as presenters. It's always humbling to hear and see all the great presentations, no matter how many CCIE's you have there's always so much more to learn. I love hearing the presenters who are passionate about their product or tech because it keeps me excited and wanting to learn more.
 
 Stay tuned to this blog for more about Network Field Day 23. #NFD23
-
-![](/assets/images/nfd_logo.png)
+<p align=center>
+<img src="/assets/images/nfd_logo.png">
+</p>
