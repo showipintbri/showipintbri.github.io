@@ -98,9 +98,9 @@ I have never used different profiles for different scenarios. I always stuck wit
 Depending on what type of questions you need to answer you might need different data available to you (different from the default profile). This is why profiles are so important.
 
 Some of the things you can do with profiles are: 
-- Coloring Rules: Define when Wireshark should highlight a packet and what the foreground/background colors should be.
-- Columns: You can customize colomns putting the data you need next to each other.
-- Filter Buttons: Buttons which store common display filters so the can be easily applied.
+- **Coloring Rules:** Define when Wireshark should highlight a packet and what the foreground/background colors should be.
+- **Columns:** You can customize colomns putting the data you need next to each other.
+- **Filter Buttons:** Buttons which store common display filters so the can be easily applied.
 
 While the below TCP Profile might not mean anything to you. That's okay because it's not suposed to mean anything to *you*, it's supposed to mean something to *me* and help *me* solve a problem. Profiles are very personal and should help the individual increase their own analysis efficiency. 
  <p align="center">
