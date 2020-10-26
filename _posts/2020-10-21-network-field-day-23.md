@@ -10,7 +10,7 @@ tags:
 
 For me it seems like #NFD23 was months ago even though it has only been a few weeks.
 
-Network Field Day (NFD) is the networking focussed event organized by Tech Field Day. It's one of the many events they put on throughout the year. Whether you're into wireless, security, mobility, cloud, AI or even storage(:shrug:) Tech Field Day puts on an event for you. Check out all their events at [https://techfieldday.com/](https://techfieldday.com/).
+Network Field Day (NFD) is the networking focussed event organized by Tech Field Day. It's one of the many events they put on throughout the year. Whether you're into wireless, security, mobility, cloud, AI or even storage(:man_shrugging:) Tech Field Day puts on an event for you. Check out all their events at [https://techfieldday.com/](https://techfieldday.com/).
 
 This was my second NFD and the first I've participated in virtually. I wasn't sure how this was going to go since my only exposure to NFD was when I attended #NFD22 live in San Jose, California, which was in-person in Feb 2020.
 
