@@ -6,8 +6,7 @@ description: Tony E's Journey through Tech and Life.
 site-image: /assets/images/meta.jpg
 site-keywords: 'Blog, CCIE, Cisco, Wireshark, PCAP, Suricata, Bro, Zeek'
 favicon-url: null
-heroimage: >-
-  https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: /assets/images/hero_image.jpeg
 twitter_username: showipintbri
 github_username: showipintbri
 youtube_channel_id: tonyeccie
