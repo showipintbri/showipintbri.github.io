@@ -20,7 +20,7 @@ We've been stremaing on YouTube, Twitch and Twitter, Wednesday evenings from 8pm
 #### Why is this exciting? 
 We've put together a great framework that allows us real time live interaction with the audience. No longer is hearing Network Collective like UDP (1-way converstation), now it's more like TCP (a 3-way handshake with bi-directional payloads). 
 
-Have you ever listened and thought you wish you could just chime in and drop your 2-cents. Now you can! Use these links and Subscribe/Follow join us on Wednesday nights and tell us what you're up to:
+Have you ever listened and thought you wish you could just chime in and drop your 2-cents. Now you can! Use these links and Subscribe/Follow join us on Wednesday nights and tell us what you're up to in the live chat:
 - YouTube  <i class="fab fa-youtube"></i>: [https://www.youtube.com/networkcollective](https://www.youtube.com/networkcollective)
 - Twitch.tv  <i class="fab fa-twitch"></i>: [https://www.twitch.tv/networkcollective](https://www.twitch.tv/networkcollective)
 
