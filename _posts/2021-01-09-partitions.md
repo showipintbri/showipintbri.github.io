@@ -29,25 +29,26 @@ I found this was best accomplished with a GUI utility because I wasn't familiar 
 
 ## WARNING: MAKE SURE YOU HAVE CURRENT FULL SYSTEM BACKUP BEFORE PROCEDING
 #### Procedure
-1. Create the bootable thumb drive.
+
+1. Create the bootable thumb drive.<br>
     - I used the latest **stable** release for amd64 (iso file)
     - I used Etcher for writting to the thumb drive
-2. Boot from the thumb drive.
+2. Boot from the thumb drive.<br>
     - **NOTE:** Most guides will have you 'turn off secure boot', but I left "Secure Boot: on" and was able to complete everything.
     - Shutdown and Power off your Surface Pro. **DO NOT** hibernate or sleep the device.
     - Insert the thumb drive
     - Hold down the **Volume Down** button while pressing and releasing the power button. I continued to hold the Volume Down button for a few more seconds then releasing it.
     - You should see a black screen with boot text on it, instead of the usual Windows logo.
     - You should be greated with the GParted Live boot menu. **NOTE:** The text is extremely small in this menu. I selected the **top** boot option which should be the default.
-3. Once in the live environment open "GParted".
+3. Once in the live environment open "GParted".<br>
     - Right-click the "Recovery Partition" and choose "Resize/Move"
-    - In the new pop-up hover the mouse over the small box representing the partition, your sursor should change to a ":heavy_plus_sign:" with arrows. Click and drag the small box representing the partition all the way to the right.
+    - In the new pop-up hover the mouse over the small box representing the partition, your sursor should change to a ":heavy_plus_sign:" with arrows. Click and drag the small box representing the partition all the way to the right.<br>
       - The "Free space preceding (MiB)" should increase.
       - The "New Size (MiB)" should remain the same.
       - The "Free space following (MiB)" should decrease to "1" or "0".
     - Click the "Resize/Move" button to queue the changes.
     - Now, right-click the large primary windows partition and choose "Resize/Move".
-    - In the new window hove you cursor over the right-edge of the small box representing the partition. Your cursor should change to an ":arrow_right:". Click and drag this edge all the way to the right.
+    - In the new window hove you cursor over the right-edge of the small box representing the partition. Your cursor should change to an ":arrow_right:". Click and drag this edge all the way to the right.<br>
       - The "Free space preceding (MiB)" should remain the same.
       - The "New Size (MiB)" should increase.
       - The "Free space following (MiB)" should decrease to "1" or "0".
