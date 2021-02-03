@@ -58,5 +58,6 @@ I found this was best accomplished with a GUI utility because I wasn't familiar 
 5. Remove the thumb drive and reboot the Surface Pro. It should boot like normal.
 
 After the computer completely rebooted, I openned file explorer, clicked on "This PC" and saw my disk was still showing "~256GB" total capacity. This was wrong, it should be ~512GB. I openned Disk Management, clicked on my Primary Windows partition and clicked "Refresh" from the drop down menu. This caused the Surface Pro to immediately bluescreen and go into Recovery Mode. This took about 1 - 2 minutes to recover. Once it was finished "*rebuilding*", it rebooted again. I checked everything and I now had ~512GB full drive capacity available to me.
-
+<p align=center>
+<img src="/assets/images/posts/2021-01-09-partitions/disk-management.png"></p>
 I'm not sure why this process caused the computer to jump to Recovery Mode. If you know, tell me.
